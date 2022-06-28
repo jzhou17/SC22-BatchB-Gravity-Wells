@@ -104,5 +104,5 @@
 {"cell_type":"markdown","id":"f4e725","input":"The goal of this notebook is to provide students with knowledge of the fundamentals of python. We will take a more interactive approach than most class room settings and ask the students to do some research on their own then bring their learnings back here to share with the class. ","pos":1,"type":"cell"}
 {"cell_type":"markdown","id":"f6ad2d","input":"**TODO:** Now its your turn. We will have students create their own version of this data type.\n","pos":30,"type":"cell"}
 {"cell_type":"markdown","id":"ff510d","input":"Additionally, functions can take in one or multiple values to use in their code, as we can see below.","pos":61,"type":"cell"}
-{"id":0,"time":1656343699032,"type":"user"}
-{"last_load":1656362163765,"type":"file"}
+{"id":0,"time":1656428886710,"type":"user"}
+{"last_load":1656428886157,"type":"file"}

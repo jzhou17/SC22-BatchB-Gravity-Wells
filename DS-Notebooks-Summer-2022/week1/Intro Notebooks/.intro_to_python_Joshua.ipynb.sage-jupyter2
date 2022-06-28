@@ -102,5 +102,5 @@
 {"cell_type":"markdown","id":"ec8eb9","input":"We will learn more about for loops in the next lesson. For now, we will use them to go through a list and print out each element.","pos":36,"type":"cell"}
 {"cell_type":"markdown","id":"f169b9","input":"### Pandas \\- A Data Scientist's Best Friend\n\nWith numpy briefly explored above, we will now check out a little bit about pandas. Pandas is an awesome module that helps us deal with large amounts of data in an easy to understand way. Below we will look at some of its many functions\n\nFirst, we'll have to import it. It is common practice to \\`import pandas as pd\\` but you are free to import it as you see fit.\n","pos":86,"type":"cell"}
 {"cell_type":"markdown","id":"f1969e","input":"### Functions","pos":56,"type":"cell"}
-{"id":0,"time":1656350313560,"type":"user"}
-{"last_load":1656350313678,"type":"file"}
+{"id":0,"time":1656428980306,"type":"user"}
+{"last_load":1656428980384,"type":"file"}
