@@ -1,13 +1,13 @@
-{"backend_state":"init","kernel":"python3-ubuntu","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"interpreter":{"hash":"08210294964727e4010dccc398c44f22b92a2e77e2aceea574ad21eae77cd8e8"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"orig_nbformat":4},"trust":false,"type":"settings"}
+{"backend_state":"running","connection_file":"/projects/39b268b1-0e75-4ebd-9cf2-691243b37f4a/.local/share/jupyter/runtime/kernel-498c1549-cc81-4322-a8a5-a46e2e7f11ca.json","kernel":"python3-ubuntu","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"interpreter":{"hash":"08210294964727e4010dccc398c44f22b92a2e77e2aceea574ad21eae77cd8e8"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"orig_nbformat":4},"trust":true,"type":"settings"}
+{"cell_type":"code","end":1656529686769,"exec_count":4,"id":"b3b074","input":"#create a list of your favorite colors\nfavColors = ['Blue', 'Purple', 'Red', 'Yellow']\nprint(favColors)","kernel":"python3-ubuntu","output":{"0":{"name":"stdout","text":"['Blue', 'Purple', 'Red', 'Yellow']\n"}},"pos":32,"start":1656529686762,"state":"done","type":"cell"}
+{"cell_type":"code","end":1656529694524,"exec_count":5,"id":"86fe69","input":"# append another color to the list of your favorite colors\nfavColors.append('Green')\nprint(favColors)\nfavColors.remove('Yellow')\nprint(favColors)","kernel":"python3-ubuntu","output":{"0":{"name":"stdout","text":"['Blue', 'Purple', 'Red', 'Yellow', 'Green']\n['Blue', 'Purple', 'Red', 'Green']\n"}},"pos":34,"start":1656529694493,"state":"done","type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"09ec33","input":"","pos":17,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"18bf98","input":"","pos":51,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"4d493e","input":"","pos":19,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"53fbb7","input":"","pos":85,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"73df01","input":"","pos":53,"type":"cell"}
-{"cell_type":"code","exec_count":0,"id":"86fe69","input":"# append another color to the list of your favorite colors\n","pos":34,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"8bd411","input":"","pos":71,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"a52d04","input":"","pos":21,"type":"cell"}
-{"cell_type":"code","exec_count":0,"id":"b3b074","input":"#create a list of your favorite colors\n","pos":32,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"b3cdf6","input":"","pos":69,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"b668f9","input":"","pos":3,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"dbeae9","input":"","pos":55,"type":"cell"}
@@ -102,5 +102,5 @@
 {"cell_type":"markdown","id":"ec8eb9","input":"We will learn more about for loops in the next lesson. For now, we will use them to go through a list and print out each element.","pos":36,"type":"cell"}
 {"cell_type":"markdown","id":"f169b9","input":"### Pandas \\- A Data Scientist's Best Friend\n\nWith numpy briefly explored above, we will now check out a little bit about pandas. Pandas is an awesome module that helps us deal with large amounts of data in an easy to understand way. Below we will look at some of its many functions\n\nFirst, we'll have to import it. It is common practice to \\`import pandas as pd\\` but you are free to import it as you see fit.\n","pos":86,"type":"cell"}
 {"cell_type":"markdown","id":"f1969e","input":"### Functions","pos":56,"type":"cell"}
-{"id":0,"time":1656428980306,"type":"user"}
+{"id":0,"time":1656529470663,"type":"user"}
 {"last_load":1656428980384,"type":"file"}
