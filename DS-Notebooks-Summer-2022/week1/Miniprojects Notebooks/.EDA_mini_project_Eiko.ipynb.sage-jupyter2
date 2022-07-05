@@ -54,5 +54,5 @@
 {"cell_type":"markdown","id":"ffe45f","input":"**TODO:** Can you run the .head\\(\\) and .tail\\(\\) function on our new dataframe? Can you print the name of all the columns in our dataframe? How about the number of rows?\n","pos":5,"type":"cell"}
 {"cell_type":"raw","id":"5cdc4e","input":"What do these columns mean?\n\n\n\n\n\n\n","pos":11,"type":"cell"}
 {"cell_type":"raw","id":"7a40e0","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":53,"type":"cell"}
-{"id":0,"time":1656515630083,"type":"user"}
-{"last_load":1656511596655,"type":"file"}
+{"id":0,"time":1656605214612,"type":"user"}
+{"last_load":1656601544765,"type":"file"}

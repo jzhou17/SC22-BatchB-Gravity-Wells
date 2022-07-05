@@ -1,0 +1,6 @@
+{"backend_state":"init","connection_file":"/projects/39b268b1-0e75-4ebd-9cf2-691243b37f4a/.local/share/jupyter/runtime/kernel-57ba985d-5d78-46bb-88e2-a04573bfc08d.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.13"}},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"632cd7","input":"","pos":2,"type":"cell"}
+{"cell_type":"code","exec_count":1,"id":"ef2360","input":"import matplotlib.pyplot as plt\nimport numpy as np\nimport pandas as pd\nimport plotly.express as px\nfrom plotly.subplots import make_subplots\nimport plotly.graph_objects as go\nimport seaborn as sns\nfrom sklearn.impute import SimpleImputer","pos":0,"type":"cell"}
+{"cell_type":"code","exec_count":2,"id":"fee86e","input":"df_emissions = pd.read_csv('Emissions.csv')\ndf_fossil_fuels = pd.concat([pd.read_csv('Fossil Fuels A.csv'), pd.read_csv('Fossil Fuels B.csv')])","pos":1,"type":"cell"}
+{"id":0,"time":1656684872672,"type":"user"}
+{"last_load":1656684871934,"type":"file"}

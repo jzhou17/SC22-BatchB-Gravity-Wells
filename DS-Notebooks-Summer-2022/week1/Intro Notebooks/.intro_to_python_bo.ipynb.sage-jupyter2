@@ -102,5 +102,5 @@
 {"cell_type":"markdown","id":"f3fd8f","input":"In the next block, create a for loop that counts from 0 to 10 and prints out each number. Additionally, if the number is less than 3, print out \"This is a small number\".","pos":50,"type":"cell"}
 {"cell_type":"markdown","id":"f4aec8","input":"To access a specific item from the list, you would do the following.","pos":26,"type":"cell"}
 {"cell_type":"markdown","id":"f54d14","input":"Just like regular variables, we can do operations on this list","pos":81,"type":"cell"}
-{"id":0,"time":1656515871049,"type":"user"}
+{"id":0,"time":1656428995719,"type":"user"}
 {"last_load":1656428995963,"type":"file"}

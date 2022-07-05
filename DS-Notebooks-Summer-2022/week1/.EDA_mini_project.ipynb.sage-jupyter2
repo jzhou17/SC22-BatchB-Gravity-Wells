@@ -54,5 +54,5 @@
 {"cell_type":"markdown","id":"f36593","input":"### Step 2: Do your research\n\nWhat do the column names mean? At this point you should look up the meanings of any columns you don't know about and make some comments below. \n\nTypically at this point we would read up on the domain we are performing data analysis on. To do research on penguins you should probably get to know something about penguins!\n","pos":10,"type":"cell"}
 {"cell_type":"raw","id":"5572c2","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":53,"type":"cell"}
 {"cell_type":"raw","id":"c457d2","input":"What do these columns mean?\n\n\n\n\n\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1656524609926,"type":"user"}
-{"last_load":1656514357432,"type":"file"}
+{"id":0,"time":1656602085896,"type":"user"}
+{"last_load":1656600755193,"type":"file"}
