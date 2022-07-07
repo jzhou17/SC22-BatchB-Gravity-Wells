@@ -52,5 +52,5 @@
 {"cell_type":"markdown","id":"d5aa52","input":"#### Getting Rid of N/A's\n\nI see lots of N/A's, which we typically cannot visualize or use in machine learning.\nNow, I want to get rid of all the rows that have NA's in them. I'll show you how. **TODO:** Can you print the number of rows our dataframe has after I drop the NAs?\n","pos":16,"type":"cell"}
 {"cell_type":"raw","id":"bcf6bb","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":51,"type":"cell"}
 {"cell_type":"raw","id":"c46de8","input":"What do these columns mean?\n\n\n\n\n\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1656601745690,"type":"user"}
-{"last_load":1656601745236,"type":"file"}
+{"id":0,"time":1657044726410,"type":"user"}
+{"last_load":1657044726190,"type":"file"}

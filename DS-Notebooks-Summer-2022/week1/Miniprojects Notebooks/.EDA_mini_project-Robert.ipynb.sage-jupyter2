@@ -57,5 +57,5 @@
 {"cell_type":"markdown","id":"fa2fc0","input":"**TODO:** Let's make it look even better. Copy your function from above but add another argument to the function by setting the `color=\"Species\"`. Not sure what this means? Get to the scatter plots page on plotly and scroll down to the \"Setting size and color with column names\" section.\n\n","pos":46,"type":"cell"}
 {"cell_type":"raw","id":"f04bc3","input":"Write up some descriptions for your findings here....\n\n\nPenguins from Torgerson seem to have a much shorter Culmen Lengths than those from the other two islands, and those from Biscoe tend to have much lower Culmen Depths. Further, Adelie penguins tend to have the shortest Culmen Lengths but the highest Culmen Depths, meanwhile Gentoo penguins thend to have the longest Culmen Lengths but the lowest Culmen Depths. Males also tend to have longer Culmen Lengths and higher Culmen Depths than females.\n\n","pos":56,"type":"cell"}
 {"cell_type":"raw","id":"fba374","input":"What do these columns mean?\n\n\n\n\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1656690390682,"type":"user"}
-{"last_load":1656690390353,"type":"file"}
+{"id":0,"time":1657130881465,"type":"user"}
+{"last_load":1657130876769,"type":"file"}
