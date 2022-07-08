@@ -65,5 +65,5 @@
 {"cell_type":"markdown","id":"ec2e7e","input":"**The last step!!** We need to change parameters and data to improve our model as we go. If we can make even 1 more correct cancer prediction, it is worth it, right? \n\n**TODO:** Go back and change the value of `k` in the **creating your model object** section and re-run all the code below it. See what changes with your MSE and confusion matrix!","metadata":{"id":"tbo3cueVq7EV"},"pos":52,"type":"cell"}
 {"cell_type":"markdown","id":"ef11be","input":"### Want more?\n\nThere are dozens of models available on SKLearn: https://scikit-learn.org/stable/supervised_learning.html.\n\nYou can try an implement your own below, I recommend starting with logistic regression or random forests :) ","metadata":{"id":"hd9Jqq18wFkd"},"pos":64,"type":"cell"}
 {"cell_type":"markdown","id":"f359d0","input":"### Visualize our data\nNow that we've cleaned our data and it is all ready for our model, we should understand some of the relationships. Use your learnings from last week to create two plots -- you can always start with simple [scatter plots](https://plotly.com/python/line-and-scatter/) or maybe a [scatterplot matrix](https://plotly.com/python/splom/). Get creative!","metadata":{"id":"jhMq9yAj3x78"},"pos":24,"type":"cell"}
-{"id":0,"time":1657040776418,"type":"user"}
-{"last_load":1657202708047,"type":"file"}
+{"id":0,"time":1657288832373,"type":"user"}
+{"last_load":1657288832374,"type":"file"}

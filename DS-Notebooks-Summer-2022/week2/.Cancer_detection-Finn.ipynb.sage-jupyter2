@@ -65,5 +65,5 @@
 {"cell_type":"markdown","id":"f97f99","input":"### Visualize our data\nNow that we've cleaned our data and it is all ready for our model, we should understand some of the relationships. Use your learnings from last week to create two plots -- you can always start with simple [scatter plots](https://plotly.com/python/line-and-scatter/) or maybe a [scatterplot matrix](https://plotly.com/python/splom/). Get creative!","metadata":{"id":"jhMq9yAj3x78"},"pos":24,"type":"cell"}
 {"cell_type":"markdown","id":"fb4d57","input":"**Creating the model object:**  we need to create an instance of the model. This is like having a model and giving it a nickname so we can remember it, change it, and save it to work custom on our dataset. ","metadata":{"id":"tv1P3go2_U5O"},"pos":39,"type":"cell"}
 {"cell_type":"markdown","id":"fc969a","input":"**TODO:** can you look at the shape of the x_train, x_test, y_train, and y_test columns? Why does the shape of these columns make sense? ","metadata":{"id":"rcQ-PJQF9XSA"},"pos":33,"type":"cell"}
-{"id":0,"time":1657220312732,"type":"user"}
-{"last_load":1657220312768,"type":"file"}
+{"id":0,"time":1657296012881,"type":"user"}
+{"last_load":1657288782121,"type":"file"}

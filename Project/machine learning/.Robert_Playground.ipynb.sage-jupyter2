@@ -14,4 +14,4 @@
 {"cell_type":"markdown","id":"28b4fc","input":"#### RFR\n\nParams: RFR = RandomForestRegressor\\(n\\_estimators = 150, min\\_samples\\_split = 3\\)\n\nMSE: 1.5923507837249158e\\-05\n\nR^2: 0.9990686333670127\n\n#### KNN\n\nParams: KNN = KNeighborsRegressor\\(n\\_neighbors=2, weights='distance'\\)\n\nMSE: 6.088790692236671e\\-05\n\nR^2: 0.996438663802\n\n","pos":0,"type":"cell"}
 {"cell_type":"markdown","id":"985897","input":"##### This is the end of RFR, now for KNN\n\n","pos":9,"type":"cell"}
 {"id":0,"time":1657203581811,"type":"user"}
-{"last_load":1657214929447,"type":"file"}
+{"last_load":1657290132636,"type":"file"}
