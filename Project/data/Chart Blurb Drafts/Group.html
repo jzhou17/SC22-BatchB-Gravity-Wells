@@ -22,10 +22,18 @@ Comparing the share of global greenhouse gas emissions of 1999-2009-2019, it is 
 
 <p>
   <br/>
-  The hard coal production of the US has been declining rapidly since 1980, and their greenhouse gas emissions have also decreased over that time. Other nations like Russia that have increased their hard coal production have seen an increase in their emissions over the same time, showing that emissions are correlated with the hard coal production of a nation.
+  The hard coal production of the US has been declining rapidly since 1990, and their greenhouse gas emissions have also decreased over that time. Other nations like Russia that have increased their hard coal production have seen an increase in their emissions over the same time, showing that emissions are correlated with the hard coal production of a nation.
 
 <iframe height='900' width='700' src='../Charts/Hard Coal Production of Different Countries Over Time.html'></iframe>
 
 </p>
 
 <iframe height='900' width='1200' src='../Charts/ml_results_comp.html'></iframe>
+<p>
+  Above are our six different machine learning models that have varying accuracy in their predictions. Using Greenhouse Gas Emissions (GHG) as the target variable, this provided us with 10 different feature variables such as import, exports, and production of different energy sources to see which had the greatest impact and correlation to GHG. Having pre-labeled data from the UN, a supervised machine learning model fits the goals that we set out on this project.  Different forms of regression were used as we wanted to predict a continuous value, yet these had the greatest variance in accuracy of our models. The two that would be used to make the most accurate predictions were the Random Forest Regression and the Neural Network which we built using TensorFlow: 1. Random Forest Regression MSE: 1.5923508e-05, 2. Neural Net MSE: 7.0015085e-05. These performed a magnitude better than our other models which were all in the range of (e-03&ltMSE&lte-04).
+</p>
+
+</p>
+Comparing the share of global greenhouse gas emissions of 1999-2009-2019, it is observable that there has been marginal change in which nations emit the highest amount of gasses such as 
+                                <br> carbon dioxide, methane, and nitrous oxide. Being post-industrial and industrial nations (United States, EU countries, Russia, Japan) this has consistently been the trend for the last 20 years. 
+                                <br>This also allows us to see what are the limits to the dataset we are using. For example, China is not included in this dataset and is a large contributor to global emmissions.  </p>

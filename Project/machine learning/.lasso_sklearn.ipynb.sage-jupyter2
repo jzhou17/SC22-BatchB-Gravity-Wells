@@ -24,5 +24,5 @@
 {"cell_type":"code","exec_count":81,"id":"fb2b13","input":"test_predictions_2 = model_2.predict(test_in)\n\nfig = px.scatter(x=test_out, y=test_predictions_2)\n\nfrom sklearn.metrics import mean_squared_error\nmean_squared_error(test_out, test_predictions_2)\n\nfrom sklearn.metrics import r2_score\nr2_score(test_out, test_predictions_2)","output":{"0":{"data":{"text/plain":"0.9908001579843594"},"exec_count":81,"output_type":"execute_result"}},"pos":11,"type":"cell"}
 {"cell_type":"markdown","id":"a1a3d3","input":"","pos":24,"type":"cell"}
 {"cell_type":"markdown","id":"abe621","input":"## Best Model Stuff\n\n\\# MODEL WITH BEST PARAMS\n\nmodel\\_2=linear\\_model.Lasso\\(alpha=0.0001, fit\\_intercept=True, selection='random'\\)\n\nMSE: 0.00044148337\n\nR^2: 0.9908001579843594\n","pos":0,"type":"cell"}
-{"id":0,"time":1657207396946,"type":"user"}
-{"last_load":1657213355628,"type":"file"}
+{"id":0,"time":1657563821727,"type":"user"}
+{"last_load":1657289768831,"type":"file"}
