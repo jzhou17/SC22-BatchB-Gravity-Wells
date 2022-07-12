@@ -13,5 +13,5 @@
 {"cell_type":"code","exec_count":6,"id":"4bbcd3","input":"model.compile(optimizer = 'Nadam', loss ='mse') #could also use mse and r2","pos":6,"type":"cell"}
 {"cell_type":"markdown","id":"286a84","input":"**Creating Model With Tensor Flow**\n\n","pos":2,"type":"cell"}
 {"cell_type":"markdown","id":"a11769","input":"Optimizers:\n\n**SGD:** lowest loss 8.404e\\-04, 20 epochs\n\n**Nadam:** lowest loss 2.2023e\\-04, 30 epochs\n\n","pos":9,"type":"cell"}
-{"id":0,"time":1657563941905,"type":"user"}
-{"last_load":1657559822287,"type":"file"}
+{"id":0,"time":1657648082376,"type":"user"}
+{"last_load":1657648078675,"type":"file"}

@@ -10,5 +10,5 @@
 {"cell_type":"code","exec_count":5,"id":"97a911","input":"fig = px.line(df, x = \"Year\", y = \"Greenhouse Gas Emissions\", color = \"Country\", title = \"Greenhouse Gas Emissions v. Time\")\nfig.show()\nfig.write_html('./Charts/GHG_time.html')","output":{"0":{"data":{"iframe":"7416b8fe6ce62d50752cae76a94c99c4109edf59"},"exec_count":5,"output_type":"execute_result"}},"pos":8,"type":"cell"}
 {"cell_type":"code","exec_count":7,"id":"068020","input":"# Show correlation matrix\nfig = px.imshow(df.corr(),title=\"Correlation Matrix\",width=650,height=650)\nfig.update_xaxes(tickangle=-45)","output":{"0":{"data":{"iframe":"22c1172fcc1218c40333f413bfb57b336f7cfa9b"},"exec_count":7,"output_type":"execute_result"}},"pos":6,"type":"cell"}
 {"cell_type":"code","exec_count":9,"id":"547e0e","input":"len(df)","output":{"0":{"data":{"text/plain":"1290"},"exec_count":9,"output_type":"execute_result"}},"pos":4,"type":"cell"}
-{"id":0,"time":1657218633128,"type":"user"}
-{"last_load":1657218630138,"type":"file"}
+{"id":0,"time":1657638862883,"type":"user"}
+{"last_load":1657638862692,"type":"file"}

@@ -13,5 +13,5 @@
 {"cell_type":"code","exec_count":160,"id":"f6891c","input":"print(mean_squared_error(test_out, KNN_test_predictions))\nr2_score(test_out, KNN_test_predictions)","output":{"0":{"name":"stdout","output_type":"stream","text":"6.088790692236671e-05\n"},"1":{"data":{"text/plain":"0.996438663802"},"exec_count":160,"output_type":"execute_result"}},"pos":12,"type":"cell"}
 {"cell_type":"markdown","id":"28b4fc","input":"#### RFR\n\nParams: RFR = RandomForestRegressor\\(n\\_estimators = 150, min\\_samples\\_split = 3\\)\n\nMSE: 1.5923507837249158e\\-05\n\nR^2: 0.9990686333670127\n\n#### KNN\n\nParams: KNN = KNeighborsRegressor\\(n\\_neighbors=2, weights='distance'\\)\n\nMSE: 6.088790692236671e\\-05\n\nR^2: 0.996438663802\n\n","pos":0,"type":"cell"}
 {"cell_type":"markdown","id":"985897","input":"##### This is the end of RFR, now for KNN\n\n","pos":9,"type":"cell"}
-{"id":0,"time":1657563957933,"type":"user"}
-{"last_load":1657553974566,"type":"file"}
+{"id":0,"time":1657648346028,"type":"user"}
+{"last_load":1657639795308,"type":"file"}
