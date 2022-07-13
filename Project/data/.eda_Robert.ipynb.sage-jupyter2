@@ -22,5 +22,5 @@
 {"cell_type":"code","exec_count":7,"id":"7f310c","input":"df_1999 = df[df[\"Year\"]==1999]\ndf_2009 = df[df[\"Year\"]==2009]\ndf_2019 = df[df[\"Year\"]==2019]","pos":9,"type":"cell"}
 {"cell_type":"code","exec_count":8,"id":"23e275","input":"fig = pl.scatter(df, x=\"Year\", y=\"Natural Gas Production\", size=\"Greenhouse Gas Emissions\", color = \"Country\", title=\"Natural Gas Production of Different Countries Over Time\")","output":{"0":{"data":{"iframe":"9d59b7920d54cc9f6a11296f7ac89fb95a86b3b7"},"exec_count":8,"output_type":"execute_result"}},"pos":4,"type":"cell"}
 {"cell_type":"code","exec_count":8,"id":"bc7cef","input":"GHG_total_1999 = df_1999[\"Greenhouse Gas Emissions\"].sum()\nGHG_total_2009 = df_2009[\"Greenhouse Gas Emissions\"].sum()\nGHG_total_2019 = df_2019[\"Greenhouse Gas Emissions\"].sum()","pos":10,"type":"cell"}
-{"id":0,"time":1657648231891,"type":"user"}
+{"id":0,"time":1657652523195,"type":"user"}
 {"last_load":1657648231874,"type":"file"}
