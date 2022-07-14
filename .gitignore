@@ -16,3 +16,4 @@ Project/data/**/*.csv
 .jupyter-blobs-v0.db
 ./**/*.csv
 Project/github_sites/
+github_sites/
